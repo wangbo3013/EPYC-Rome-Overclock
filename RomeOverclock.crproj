@@ -1,0 +1,12 @@
+<project outputDir="C:\Users\Sebastiaan\RiderProjects\RomeOverclock\Confused" baseDir="C:\Users\Sebastiaan\RiderProjects\RomeOverclock" xmlns="http://confuser.codeplex.com">
+  <module path="RomeOverclock\bin\Release\RomeOverclock.exe">
+    <rule pattern="true" preset="maximum">
+      <protection id="anti tamper" />
+      <protection id="constants" />
+      <protection id="anti debug" />
+      <protection id="anti dump" />
+      <protection id="invalid metadata" />
+      <protection id="rename" />
+    </rule>
+  </module>
+</project>
